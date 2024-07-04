@@ -53,5 +53,5 @@ def n_queens():
         print(clean)
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     n_queens()
